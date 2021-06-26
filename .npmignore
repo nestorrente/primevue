@@ -14,3 +14,4 @@ postcss.config.js
 vue.config.js
 build-lib.js
 .babelrc-lib
+.idea
